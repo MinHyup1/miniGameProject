@@ -8,6 +8,6 @@ public class HelloController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Greet ings from Strping Boot!! 미니게임 프로젝트!";
+		return "Greet ings from StrpingBoot!!미니게임 프로젝트!";
 	}
 }
